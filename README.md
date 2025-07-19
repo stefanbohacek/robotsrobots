@@ -5,7 +5,3 @@
 Check out [botwiki.org](https://botwiki.org/)!
 
 Image credit: [@EmojiMashupBot](https://twitter.com/EmojiMashupBot)
-
-Made with [Glitch](https://glitch.com/)
-
-\ ゜o゜)ノ
